@@ -12,7 +12,7 @@ public class MapTest {
             System.out.println(entry.getKey() + "_" + entry.getValue());
 
         }
-
+        // 20200523修改
         String name = map.get("name");
         System.out.println(name);
 

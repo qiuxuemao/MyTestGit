@@ -18,6 +18,9 @@ public class MapTest {
 
         // 赵普
         System.out.println("haha");
+        System.out.println("haha");
+        System.out.println("haha");
+        System.out.println("haha");
 
     }
 }
